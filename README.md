@@ -16,7 +16,7 @@ I've been creating many pieces of software, and libraries over the weeks, with m
 
 ### 🌈 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=lua,c,cpp,rust,git,github,vscode" />
 </p>
 
 ---
