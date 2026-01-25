@@ -8,7 +8,7 @@ I've been creating many pieces of software, and libraries over the weeks, with m
 
 ### ⚙️ GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Avery-Personal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Avery-Personal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=Avery-Personal&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -23,7 +23,7 @@ I've been creating many pieces of software, and libraries over the weeks, with m
 
 ### 🧩 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avery-Personal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avery-Personal&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 ---
